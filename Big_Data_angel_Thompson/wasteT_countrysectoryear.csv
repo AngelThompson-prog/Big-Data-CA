@@ -1,0 +1,1001 @@
+country_name,eprtrSectorName,reportingYear,total_waste
+Austria,"Energy sector",2007,55554.29
+Austria,"Chemical industry",2007,124939.19
+Austria,"Production and processing of metals",2007,226393.45
+Austria,"Waste and wastewater management",2007,1852365.40
+Austria,"Mineral industry",2007,9963.24
+Austria,"Paper and wood production and processing",2007,618066.19
+Austria,"Animal and vegetable products from the food and beverage sector",2007,90192.68
+Austria,"Other activities",2007,56170.48
+Austria,"Paper and wood production and processing",2008,541862.77
+Austria,"Production and processing of metals",2008,257797.95
+Austria,"Animal and vegetable products from the food and beverage sector",2008,103994.34
+Austria,"Mineral industry",2008,20626.56
+Austria,"Chemical industry",2008,146584.76
+Austria,"Other activities",2008,19215.55
+Austria,"Waste and wastewater management",2008,2346709.79
+Austria,"Energy sector",2008,104231.84
+Austria,"Waste and wastewater management",2009,2535374.30
+Austria,"Energy sector",2009,221785.23
+Austria,"Production and processing of metals",2009,228428.59
+Austria,"Chemical industry",2009,109513.69
+Austria,"Paper and wood production and processing",2009,510935.96
+Austria,"Animal and vegetable products from the food and beverage sector",2009,133438.18
+Austria,"Other activities",2009,31408.00
+Austria,"Mineral industry",2009,24069.87
+Austria,"Production and processing of metals",2010,276075.80
+Austria,"Mineral industry",2010,4456.59
+Austria,"Animal and vegetable products from the food and beverage sector",2010,112522.43
+Austria,"Other activities",2010,40005.28
+Austria,"Chemical industry",2010,127474.95
+Austria,"Energy sector",2010,94628.83
+Austria,"Paper and wood production and processing",2010,716216.95
+Austria,"Waste and wastewater management",2010,2612476.29
+Austria,"Animal and vegetable products from the food and beverage sector",2011,106702.19
+Austria,"Mineral industry",2011,4906.30
+Austria,"Waste and wastewater management",2011,3016581.64
+Austria,"Production and processing of metals",2011,342461.04
+Austria,"Energy sector",2011,89655.30
+Austria,"Other activities",2011,36326.80
+Austria,"Chemical industry",2011,138469.27
+Austria,"Paper and wood production and processing",2011,777607.76
+Austria,"Energy sector",2012,114499.54
+Austria,"Mineral industry",2012,6227.84
+Austria,"Waste and wastewater management",2012,2221009.27
+Austria,"Animal and vegetable products from the food and beverage sector",2012,109168.50
+Austria,"Chemical industry",2012,1809132.43
+Austria,"Paper and wood production and processing",2012,696611.20
+Austria,"Production and processing of metals",2012,367080.15
+Austria,"Other activities",2012,38559.30
+Austria,"Production and processing of metals",2013,471391.14
+Austria,"Chemical industry",2013,116140.82
+Austria,"Paper and wood production and processing",2013,705841.72
+Austria,"Mineral industry",2013,29615.33
+Austria,"Animal and vegetable products from the food and beverage sector",2013,105340.35
+Austria,"Other activities",2013,34068.80
+Austria,"Energy sector",2013,124962.91
+Austria,"Waste and wastewater management",2013,2229806.96
+Austria,"Energy sector",2014,44121.39
+Austria,"Waste and wastewater management",2014,2512515.05
+Austria,"Production and processing of metals",2014,1000017.16
+Austria,"Mineral industry",2014,4746.34
+Austria,"Paper and wood production and processing",2014,713390.08
+Austria,"Animal and vegetable products from the food and beverage sector",2014,119660.73
+Austria,"Other activities",2014,37357.52
+Austria,"Chemical industry",2014,104894.02
+Austria,"Mineral industry",2015,26699.99
+Austria,"Production and processing of metals",2015,1119841.66
+Austria,"Waste and wastewater management",2015,2515087.78
+Austria,"Paper and wood production and processing",2015,665486.03
+Austria,"Animal and vegetable products from the food and beverage sector",2015,132311.74
+Austria,"Other activities",2015,35073.22
+Austria,"Energy sector",2015,55831.23
+Austria,"Chemical industry",2015,122080.97
+Austria,"Chemical industry",2016,106917.56
+Austria,"Production and processing of metals",2016,1198134.82
+Austria,"Paper and wood production and processing",2016,662126.38
+Austria,"Animal and vegetable products from the food and beverage sector",2016,121096.18
+Austria,"Mineral industry",2016,9733.60
+Austria,"Other activities",2016,41359.91
+Austria,"Energy sector",2016,120862.66
+Austria,"Waste and wastewater management",2016,2622275.69
+Austria,"Production and processing of metals",2017,305235.14
+Austria,"Mineral industry",2017,16370.99
+Austria,"Chemical industry",2017,111099.52
+Austria,"Waste and wastewater management",2017,2309240.24
+Austria,"Energy sector",2017,15136.02
+Austria,"Animal and vegetable products from the food and beverage sector",2017,123216.02
+Austria,"Other activities",2017,502373.64
+Austria,"Paper and wood production and processing",2017,597517.77
+Austria,"Chemical industry",2018,131774.24
+Austria,"Waste and wastewater management",2018,2545032.26
+Austria,"Energy sector",2018,88100.53
+Austria,"Production and processing of metals",2018,1207116.04
+Austria,"Paper and wood production and processing",2018,576552.91
+Austria,"Animal and vegetable products from the food and beverage sector",2018,154238.71
+Austria,"Mineral industry",2018,15951.24
+Austria,"Other activities",2018,28807.57
+Austria,"Chemical industry",2019,130800.90
+Austria,"Animal and vegetable products from the food and beverage sector",2019,132582.90
+Austria,"Other activities",2019,29306.02
+Austria,"Production and processing of metals",2019,282654.12
+Austria,"Waste and wastewater management",2019,2685884.97
+Austria,"Paper and wood production and processing",2019,569363.57
+Austria,"Energy sector",2019,80203.83
+Austria,"Mineral industry",2019,9890.98
+Austria,"Animal and vegetable products from the food and beverage sector",2020,67782.08
+Austria,"Energy sector",2020,61288.46
+Austria,"Production and processing of metals",2020,214885.69
+Austria,"Mineral industry",2020,7295.27
+Austria,"Chemical industry",2020,56104.29
+Austria,"Waste and wastewater management",2020,1355486.78
+Austria,"Paper and wood production and processing",2020,516423.80
+Austria,"Other activities",2020,22542.33
+Belgium,"Waste and wastewater management",2007,7411807.81
+Belgium,"Chemical industry",2007,711958.09
+Belgium,"Other activities",2007,98665.95
+Belgium,"Mineral industry",2007,160938.09
+Belgium,"Energy sector",2007,406488.84
+Belgium,"Production and processing of metals",2007,3844749.31
+Belgium,"Paper and wood production and processing",2007,475473.16
+Belgium,"Intensive livestock production and aquaculture",2007,5.60
+Belgium,"Animal and vegetable products from the food and beverage sector",2007,1851892.07
+Belgium,"Energy sector",2008,482436.55
+Belgium,"Production and processing of metals",2008,3683416.94
+Belgium,"Mineral industry",2008,257935.51
+Belgium,"Chemical industry",2008,472573.42
+Belgium,"Waste and wastewater management",2008,7383931.62
+Belgium,"Paper and wood production and processing",2008,540674.82
+Belgium,"Intensive livestock production and aquaculture",2008,44.90
+Belgium,"Animal and vegetable products from the food and beverage sector",2008,1644843.37
+Belgium,"Other activities",2008,146703.61
+Belgium,"Paper and wood production and processing",2009,497961.25
+Belgium,"Chemical industry",2009,472268.94
+Belgium,"Production and processing of metals",2009,1961553.95
+Belgium,"Waste and wastewater management",2009,7779900.96
+Belgium,"Other activities",2009,131804.87
+Belgium,"Animal and vegetable products from the food and beverage sector",2009,2182010.19
+Belgium,"Energy sector",2009,513583.02
+Belgium,"Mineral industry",2009,470910.10
+Belgium,"Animal and vegetable products from the food and beverage sector",2010,2301597.29
+Belgium,"Energy sector",2010,987966.53
+Belgium,"Production and processing of metals",2010,2476442.40
+Belgium,"Mineral industry",2010,406378.02
+Belgium,"Chemical industry",2010,731448.82
+Belgium,"Other activities",2010,126937.71
+Belgium,"Waste and wastewater management",2010,8973501.80
+Belgium,"Paper and wood production and processing",2010,670062.77
+Belgium,"Intensive livestock production and aquaculture",2010,18176.75
+Belgium,"Chemical industry",2011,750058.47
+Belgium,"Mineral industry",2011,422445.06
+Belgium,"Production and processing of metals",2011,2667485.06
+Belgium,"Energy sector",2011,1437726.87
+Belgium,"Waste and wastewater management",2011,7272273.13
+Belgium,"Animal and vegetable products from the food and beverage sector",2011,2340102.23
+Belgium,"Other activities",2011,165545.70
+Belgium,"Paper and wood production and processing",2011,630780.96
+Belgium,"Intensive livestock production and aquaculture",2011,14.13
+Belgium,"Mineral industry",2012,390949.16
+Belgium,"Chemical industry",2012,707892.50
+Belgium,"Waste and wastewater management",2012,6847916.35
+Belgium,"Paper and wood production and processing",2012,534673.14
+Belgium,"Intensive livestock production and aquaculture",2012,74.78
+Belgium,"Animal and vegetable products from the food and beverage sector",2012,1886731.07
+Belgium,"Other activities",2012,108738.94
+Belgium,"Production and processing of metals",2012,1284676.07
+Belgium,"Energy sector",2012,1031115.41
+Belgium,"Chemical industry",2013,654654.09
+Belgium,"Mineral industry",2013,366397.50
+Belgium,"Animal and vegetable products from the food and beverage sector",2013,2066368.89
+Belgium,"Waste and wastewater management",2013,7255130.63
+Belgium,"Other activities",2013,102022.76
+Belgium,"Paper and wood production and processing",2013,532330.05
+Belgium,"Intensive livestock production and aquaculture",2013,120.74
+Belgium,"Energy sector",2013,1101521.85
+Belgium,"Production and processing of metals",2013,1286848.12
+Belgium,"Energy sector",2014,1281733.81
+Belgium,"Production and processing of metals",2014,1575038.10
+Belgium,"Mineral industry",2014,195933.51
+Belgium,"Chemical industry",2014,652290.34
+Belgium,"Waste and wastewater management",2014,8935451.00
+Belgium,"Paper and wood production and processing",2014,497304.82
+Belgium,"Animal and vegetable products from the food and beverage sector",2014,2371826.09
+Belgium,"Intensive livestock production and aquaculture",2014,208.73
+Belgium,"Other activities",2014,124306.82
+Belgium,"Chemical industry",2015,725277.29
+Belgium,"Waste and wastewater management",2015,9930371.82
+Belgium,"Paper and wood production and processing",2015,530173.18
+Belgium,"Intensive livestock production and aquaculture",2015,16676.68
+Belgium,"Animal and vegetable products from the food and beverage sector",2015,2549954.20
+Belgium,"Other activities",2015,118408.18
+Belgium,"Energy sector",2015,1255056.57
+Belgium,"Production and processing of metals",2015,1322171.49
+Belgium,"Mineral industry",2015,245192.50
+Belgium,"Energy sector",2016,1164045.23
+Belgium,"Production and processing of metals",2016,1508370.31
+Belgium,"Mineral industry",2016,225146.10
+Belgium,"Chemical industry",2016,758201.62
+Belgium,"Waste and wastewater management",2016,10519432.54
+Belgium,"Paper and wood production and processing",2016,586329.78
+Belgium,"Intensive livestock production and aquaculture",2016,1238.88
+Belgium,"Animal and vegetable products from the food and beverage sector",2016,2578274.20
+Belgium,"Other activities",2016,114235.80
+Belgium,"Paper and wood production and processing",2017,511034.64
+Belgium,"Production and processing of metals",2017,1445615.68
+Belgium,"Chemical industry",2017,813949.61
+Belgium,"Mineral industry",2017,416543.32
+Belgium,"Intensive livestock production and aquaculture",2017,1037.58
+Belgium,"Animal and vegetable products from the food and beverage sector",2017,2737236.44
+Belgium,"Other activities",2017,110558.99
+Belgium,"Waste and wastewater management",2017,17398577.21
+Belgium,"Energy sector",2017,1164284.18
+Belgium,"Other activities",2018,148121.86
+Belgium,"Mineral industry",2018,7704732.55
+Belgium,"Chemical industry",2018,855774.62
+Belgium,"Waste and wastewater management",2018,9936224.25
+Belgium,"Animal and vegetable products from the food and beverage sector",2018,3322227.09
+Belgium,"Production and processing of metals",2018,1427327.10
+Belgium,"Energy sector",2018,1058397.50
+Belgium,"Intensive livestock production and aquaculture",2018,271.88
+Belgium,"Paper and wood production and processing",2018,583646.55
+Belgium,"Energy sector",2019,980316.89
+Belgium,"Production and processing of metals",2019,1217398.03
+Belgium,"Mineral industry",2019,619843.84
+Belgium,"Chemical industry",2019,779052.90
+Belgium,"Waste and wastewater management",2019,9517360.32
+Belgium,"Paper and wood production and processing",2019,520426.56
+Belgium,"Intensive livestock production and aquaculture",2019,612.24
+Belgium,"Animal and vegetable products from the food and beverage sector",2019,2927106.45
+Belgium,"Other activities",2019,160331.37
+Belgium,"Intensive livestock production and aquaculture",2020,10745.10
+Belgium,"Waste and wastewater management",2020,9567066.32
+Belgium,"Animal and vegetable products from the food and beverage sector",2020,3270969.19
+Belgium,"Other activities",2020,112655.15
+Belgium,"Mineral industry",2020,135318.82
+Belgium,"Production and processing of metals",2020,1337471.18
+Belgium,"Energy sector",2020,913816.80
+Belgium,"Paper and wood production and processing",2020,641796.85
+Belgium,"Chemical industry",2020,688318.09
+Bulgaria,"Chemical industry",2007,54276.64
+Bulgaria,"Energy sector",2007,6786338.86
+Bulgaria,"Production and processing of metals",2007,1042788.30
+Bulgaria,"Mineral industry",2007,107907.87
+Bulgaria,"Other activities",2007,20260.40
+Bulgaria,"Intensive livestock production and aquaculture",2007,90.80
+Bulgaria,"Paper and wood production and processing",2007,45532.50
+Bulgaria,"Waste and wastewater management",2007,100468.08
+Bulgaria,"Energy sector",2008,6877381.78
+Bulgaria,"Chemical industry",2008,192369.27
+Bulgaria,"Production and processing of metals",2008,684457.38
+Bulgaria,"Mineral industry",2008,93825.17
+Bulgaria,"Other activities",2008,39032.67
+Bulgaria,"Intensive livestock production and aquaculture",2008,2.92
+Bulgaria,"Paper and wood production and processing",2008,40092.78
+Bulgaria,"Waste and wastewater management",2008,281793.00
+Bulgaria,"Chemical industry",2009,544291.00
+Bulgaria,"Mineral industry",2009,84327.26
+Bulgaria,"Waste and wastewater management",2009,184694.28
+Bulgaria,"Paper and wood production and processing",2009,18703.50
+Bulgaria,"Other activities",2009,23579.14
+Bulgaria,"Energy sector",2009,3273495.00
+Bulgaria,"Production and processing of metals",2009,352284.46
+Bulgaria,"Mineral industry",2010,101595.55
+Bulgaria,"Chemical industry",2010,859502.07
+Bulgaria,"Waste and wastewater management",2010,173729.00
+Bulgaria,"Production and processing of metals",2010,509005.50
+Bulgaria,"Paper and wood production and processing",2010,56159.66
+Bulgaria,"Intensive livestock production and aquaculture",2010,3.67
+Bulgaria,"Other activities",2010,24455.07
+Bulgaria,"Energy sector",2010,7958362.62
+Bulgaria,"Energy sector",2011,9938085.19
+Bulgaria,"Production and processing of metals",2011,327541.75
+Bulgaria,"Mineral industry",2011,97093.79
+Bulgaria,"Waste and wastewater management",2011,188915.91
+Bulgaria,"Paper and wood production and processing",2011,89571.81
+Bulgaria,"Other activities",2011,38538.68
+Bulgaria,"Chemical industry",2011,944432.80
+Bulgaria,"Waste and wastewater management",2012,341685.18
+Bulgaria,"Production and processing of metals",2012,287177.53
+Bulgaria,"Other activities",2012,28240.52
+Bulgaria,"Energy sector",2012,9470107.40
+Bulgaria,"Mineral industry",2012,90538.42
+Bulgaria,"Animal and vegetable products from the food and beverage sector",2012,28449.98
+Bulgaria,"Paper and wood production and processing",2012,27002.81
+Bulgaria,"Chemical industry",2012,948375.31
+Bulgaria,"Waste and wastewater management",2013,338862.56
+Bulgaria,"Production and processing of metals",2013,277275.54
+Bulgaria,"Mineral industry",2013,235230.72
+Bulgaria,"Chemical industry",2013,939680.00
+Bulgaria,"Animal and vegetable products from the food and beverage sector",2013,2738.90
+Bulgaria,"Other activities",2013,26208.71
+Bulgaria,"Energy sector",2013,8439084.20
+Bulgaria,"Paper and wood production and processing",2013,52743.16
+Bulgaria,"Mineral industry",2014,188646.31
+Bulgaria,"Intensive livestock production and aquaculture",2014,4.00
+Bulgaria,"Animal and vegetable products from the food and beverage sector",2014,3269.20
+Bulgaria,"Other activities",2014,4591.77
+Bulgaria,"Paper and wood production and processing",2014,60343.87
+Bulgaria,"Waste and wastewater management",2014,229201.33
+Bulgaria,"Energy sector",2014,8767443.32
+Bulgaria,"Production and processing of metals",2014,335329.39
+Bulgaria,"Chemical industry",2014,1087752.16
+Bulgaria,"Mineral industry",2015,85567.09
+Bulgaria,"Chemical industry",2015,949573.24
+Bulgaria,"Production and processing of metals",2015,248560.06
+Bulgaria,"Waste and wastewater management",2015,305869.24
+Bulgaria,"Paper and wood production and processing",2015,38022.26
+Bulgaria,"Animal and vegetable products from the food and beverage sector",2015,3554.10
+Bulgaria,"Other activities",2015,6187.10
+Bulgaria,"Energy sector",2015,7093066.71
+Bulgaria,"Energy sector",2016,7414613.13
+Bulgaria,"Mineral industry",2016,55447.97
+Bulgaria,"Other activities",2016,17392.88
+Bulgaria,"Waste and wastewater management",2016,266415.44
+Bulgaria,"Production and processing of metals",2016,295827.48
+Bulgaria,"Animal and vegetable products from the food and beverage sector",2016,7172.22
+Bulgaria,"Chemical industry",2016,1238341.53
+Bulgaria,"Paper and wood production and processing",2016,33600.00
+Bulgaria,"Mineral industry",2017,104093.81
+Bulgaria,"Animal and vegetable products from the food and beverage sector",2017,10174.20
+Bulgaria,"Other activities",2017,13177.30
+Bulgaria,"Energy sector",2017,8416323.65
+Bulgaria,"Production and processing of metals",2017,342740.89
+Bulgaria,"Chemical industry",2017,1013252.94
+Bulgaria,"Waste and wastewater management",2017,266608.60
+Bulgaria,"Paper and wood production and processing",2017,37638.81
+Bulgaria,"Animal and vegetable products from the food and beverage sector",2018,5952.00
+Bulgaria,"Intensive livestock production and aquaculture",2018,4137.00
+Bulgaria,"Other activities",2018,33174.00
+Bulgaria,"Chemical industry",2018,1352754.00
+Bulgaria,"Mineral industry",2018,99819.00
+Bulgaria,"Paper and wood production and processing",2018,58976.00
+Bulgaria,"Waste and wastewater management",2018,273985.00
+Bulgaria,"Production and processing of metals",2018,345245.00
+Bulgaria,"Energy sector",2018,5671790.00
+Bulgaria,"Energy sector",2019,7696973.00
+Bulgaria,"Mineral industry",2019,74860.00
+Bulgaria,"Waste and wastewater management",2019,187212.00
+Bulgaria,"Paper and wood production and processing",2019,57052.00
+Bulgaria,"Chemical industry",2019,511181.00
+Bulgaria,"Intensive livestock production and aquaculture",2019,3602.00
+Bulgaria,"Animal and vegetable products from the food and beverage sector",2019,10640.00
+Bulgaria,"Other activities",2019,20329.00
+Bulgaria,"Production and processing of metals",2019,332042.00
+Bulgaria,"Animal and vegetable products from the food and beverage sector",2020,8624.00
+Bulgaria,"Mineral industry",2020,55087.00
+Bulgaria,"Paper and wood production and processing",2020,53054.00
+Bulgaria,"Energy sector",2020,6183633.00
+Bulgaria,"Production and processing of metals",2020,293028.00
+Bulgaria,"Waste and wastewater management",2020,193986.00
+Bulgaria,"Intensive livestock production and aquaculture",2020,22003.00
+Bulgaria,"Chemical industry",2020,1314503.00
+Bulgaria,"Other activities",2020,36658.00
+Croatia,"Energy sector",2014,17923.48
+Croatia,"Paper and wood production and processing",2014,22734.94
+Croatia,"Intensive livestock production and aquaculture",2014,4510.59
+Croatia,"Animal and vegetable products from the food and beverage sector",2014,52715.27
+Croatia,"Other activities",2014,9070.28
+Croatia,"Chemical industry",2014,2056.40
+Croatia,"Mineral industry",2014,15892.07
+Croatia,"Waste and wastewater management",2014,130471.76
+Croatia,"Production and processing of metals",2014,35210.11
+Croatia,"Chemical industry",2015,1771.87
+Croatia,"Paper and wood production and processing",2015,26500.49
+Croatia,"Waste and wastewater management",2015,110882.56
+Croatia,"Intensive livestock production and aquaculture",2015,4256.53
+Croatia,"Animal and vegetable products from the food and beverage sector",2015,12260.01
+Croatia,"Mineral industry",2015,3544.29
+Croatia,"Production and processing of metals",2015,16249.77
+Croatia,"Energy sector",2015,24743.65
+Croatia,"Other activities",2015,11818.94
+Croatia,"Chemical industry",2016,2325.98
+Croatia,"Mineral industry",2016,4260.67
+Croatia,"Waste and wastewater management",2016,202088.44
+Croatia,"Energy sector",2016,22850.42
+Croatia,"Paper and wood production and processing",2016,25874.23
+Croatia,"Other activities",2016,11897.65
+Croatia,"Intensive livestock production and aquaculture",2016,4903.43
+Croatia,"Production and processing of metals",2016,39030.01
+Croatia,"Animal and vegetable products from the food and beverage sector",2016,17655.40
+Croatia,"Intensive livestock production and aquaculture",2017,20.86
+Croatia,"Paper and wood production and processing",2017,48890.47
+Croatia,"Mineral industry",2017,12642.76
+Croatia,"Energy sector",2017,24248.38
+Croatia,"Chemical industry",2017,6383.32
+Croatia,"Production and processing of metals",2017,21538.17
+Croatia,"Waste and wastewater management",2017,190872.19
+Croatia,"Animal and vegetable products from the food and beverage sector",2017,13207.78
+Croatia,"Other activities",2017,16818.42
+Croatia,"Energy sector",2018,69838.19
+Croatia,"Chemical industry",2018,3102.33
+Croatia,"Waste and wastewater management",2018,254176.59
+Croatia,"Paper and wood production and processing",2018,46904.91
+Croatia,"Intensive livestock production and aquaculture",2018,24.70
+Croatia,"Animal and vegetable products from the food and beverage sector",2018,18794.18
+Croatia,"Mineral industry",2018,46944.57
+Croatia,"Other activities",2018,9050.28
+Croatia,"Production and processing of metals",2018,31331.40
+Croatia,"Animal and vegetable products from the food and beverage sector",2019,13011.97
+Croatia,"Mineral industry",2019,77153.22
+Croatia,"Other activities",2019,8240.78
+Croatia,"Production and processing of metals",2019,51250.83
+Croatia,"Paper and wood production and processing",2019,42854.66
+Croatia,"Chemical industry",2019,2717.58
+Croatia,"Waste and wastewater management",2019,298779.97
+Croatia,"Energy sector",2019,75342.85
+Croatia,"Intensive livestock production and aquaculture",2019,23.98
+Croatia,"Intensive livestock production and aquaculture",2020,24.94
+Croatia,"Other activities",2020,9846.25
+Croatia,"Energy sector",2020,51185.11
+Croatia,"Paper and wood production and processing",2020,44393.12
+Croatia,"Waste and wastewater management",2020,299962.58
+Croatia,"Production and processing of metals",2020,34836.17
+Croatia,"Mineral industry",2020,16591.04
+Croatia,"Chemical industry",2020,2347.39
+Croatia,"Animal and vegetable products from the food and beverage sector",2020,11133.67
+Cyprus,"Energy sector",2007,564.01
+Cyprus,"Production and processing of metals",2007,20.71
+Cyprus,"Mineral industry",2007,76.00
+Cyprus,"Waste and wastewater management",2007,10857.00
+Cyprus,"Animal and vegetable products from the food and beverage sector",2007,6720.00
+Cyprus,"Energy sector",2008,766.00
+Cyprus,"Production and processing of metals",2008,12.00
+Cyprus,"Mineral industry",2008,79.60
+Cyprus,"Waste and wastewater management",2008,11280.00
+Cyprus,"Animal and vegetable products from the food and beverage sector",2008,5940.00
+Cyprus,"Energy sector",2009,950.60
+Cyprus,"Production and processing of metals",2009,7.00
+Cyprus,"Mineral industry",2009,56.00
+Cyprus,"Waste and wastewater management",2009,8221.00
+Cyprus,"Animal and vegetable products from the food and beverage sector",2009,4650.00
+Cyprus,"Production and processing of metals",2010,13.10
+Cyprus,"Waste and wastewater management",2010,19364.00
+Cyprus,"Animal and vegetable products from the food and beverage sector",2010,3924.00
+Cyprus,"Mineral industry",2010,56.92
+Cyprus,"Energy sector",2010,1173.60
+Cyprus,"Waste and wastewater management",2011,24553.67
+Cyprus,"Energy sector",2011,1973.20
+Cyprus,"Production and processing of metals",2011,17.50
+Cyprus,"Mineral industry",2011,92.45
+Cyprus,"Production and processing of metals",2012,5.40
+Cyprus,"Mineral industry",2012,376.11
+Cyprus,"Waste and wastewater management",2012,21180.48
+Cyprus,"Animal and vegetable products from the food and beverage sector",2012,5032.00
+Cyprus,"Energy sector",2012,1177.70
+Cyprus,"Energy sector",2013,203.00
+Cyprus,"Production and processing of metals",2013,26.50
+Cyprus,"Mineral industry",2013,9308.48
+Cyprus,"Waste and wastewater management",2013,23833.90
+Cyprus,"Intensive livestock production and aquaculture",2013,2620.00
+Cyprus,"Animal and vegetable products from the food and beverage sector",2013,3407.00
+Cyprus,"Production and processing of metals",2014,50.90
+Cyprus,"Intensive livestock production and aquaculture",2014,2690.00
+Cyprus,"Waste and wastewater management",2014,26738.86
+Cyprus,"Mineral industry",2014,5319.60
+Cyprus,"Energy sector",2014,412.40
+Cyprus,"Energy sector",2015,319.00
+Cyprus,"Production and processing of metals",2015,13.50
+Cyprus,"Animal and vegetable products from the food and beverage sector",2015,3230.00
+Cyprus,"Waste and wastewater management",2015,74490.67
+Cyprus,"Mineral industry",2015,6922.60
+Cyprus,"Production and processing of metals",2016,2.38
+Cyprus,"Mineral industry",2016,12345.30
+Cyprus,"Waste and wastewater management",2016,50279.60
+Cyprus,"Energy sector",2016,351.00
+Cyprus,"Energy sector",2017,462.60
+Cyprus,"Production and processing of metals",2017,31.40
+Cyprus,"Mineral industry",2017,29374.78
+Cyprus,"Waste and wastewater management",2017,51425.10
+Cyprus,"Waste and wastewater management",2018,56950.26
+Cyprus,"Energy sector",2018,388.80
+Cyprus,"Mineral industry",2018,29581.06
+Cyprus,"Animal and vegetable products from the food and beverage sector",2019,2886.50
+Cyprus,"Intensive livestock production and aquaculture",2019,2836.05
+Cyprus,"Waste and wastewater management",2019,58740.75
+Cyprus,"Mineral industry",2019,15536.77
+Cyprus,"Energy sector",2019,351.30
+Czechia,"Energy sector",2007,1668184.95
+Czechia,"Other activities",2007,135109.64
+Czechia,"Animal and vegetable products from the food and beverage sector",2007,74945.02
+Czechia,"Intensive livestock production and aquaculture",2007,41872.13
+Czechia,"Paper and wood production and processing",2007,94941.30
+Czechia,"Mineral industry",2007,197923.23
+Czechia,"Waste and wastewater management",2007,348002.07
+Czechia,"Chemical industry",2007,97141.60
+Czechia,"Production and processing of metals",2007,1499144.33
+Czechia,"Energy sector",2008,1703675.31
+Czechia,"Other activities",2008,38155.78
+Czechia,"Animal and vegetable products from the food and beverage sector",2008,80221.10
+Czechia,"Intensive livestock production and aquaculture",2008,25616.00
+Czechia,"Paper and wood production and processing",2008,87125.89
+Czechia,"Waste and wastewater management",2008,499127.97
+Czechia,"Production and processing of metals",2008,1509017.42
+Czechia,"Chemical industry",2008,102818.06
+Czechia,"Mineral industry",2008,192840.89
+Czechia,"Animal and vegetable products from the food and beverage sector",2009,68960.27
+Czechia,"Other activities",2009,604104.30
+Czechia,"Paper and wood production and processing",2009,55206.27
+Czechia,"Waste and wastewater management",2009,766272.37
+Czechia,"Production and processing of metals",2009,1026577.97
+Czechia,"Energy sector",2009,1766543.15
+Czechia,"Chemical industry",2009,113542.97
+Czechia,"Mineral industry",2009,113654.76
+Czechia,"Intensive livestock production and aquaculture",2009,23551.86
+Czechia,"Mineral industry",2010,136580.33
+Czechia,"Chemical industry",2010,205953.21
+Czechia,"Waste and wastewater management",2010,692346.80
+Czechia,"Other activities",2010,190414.70
+Czechia,"Animal and vegetable products from the food and beverage sector",2010,73965.76
+Czechia,"Production and processing of metals",2010,948392.31
+Czechia,"Intensive livestock production and aquaculture",2010,28720.44
+Czechia,"Energy sector",2010,1318959.55
+Czechia,"Paper and wood production and processing",2010,69175.77
+Czechia,"Paper and wood production and processing",2011,63353.92
+Czechia,"Intensive livestock production and aquaculture",2011,18636.77
+Czechia,"Mineral industry",2011,128381.16
+Czechia,"Waste and wastewater management",2011,867386.25
+Czechia,"Animal and vegetable products from the food and beverage sector",2011,44082.56
+Czechia,"Chemical industry",2011,205099.16
+Czechia,"Production and processing of metals",2011,1144397.54
+Czechia,"Energy sector",2011,974513.36
+Czechia,"Other activities",2011,262729.24
+Czechia,"Production and processing of metals",2012,1181274.09
+Czechia,"Mineral industry",2012,127878.12
+Czechia,"Energy sector",2012,895056.25
+Czechia,"Chemical industry",2012,131905.69
+Czechia,"Waste and wastewater management",2012,650016.79
+Czechia,"Other activities",2012,235350.93
+Czechia,"Animal and vegetable products from the food and beverage sector",2012,58344.29
+Czechia,"Paper and wood production and processing",2012,54322.17
+Czechia,"Intensive livestock production and aquaculture",2012,17512.99
+Czechia,"Other activities",2013,243314.14
+Czechia,"Intensive livestock production and aquaculture",2013,22122.84
+Czechia,"Waste and wastewater management",2013,734363.09
+Czechia,"Mineral industry",2013,98288.46
+Czechia,"Chemical industry",2013,139859.82
+Czechia,"Animal and vegetable products from the food and beverage sector",2013,71016.25
+Czechia,"Production and processing of metals",2013,1168228.17
+Czechia,"Paper and wood production and processing",2013,49707.40
+Czechia,"Energy sector",2013,877233.12
+Czechia,"Intensive livestock production and aquaculture",2014,15352.18
+Czechia,"Production and processing of metals",2014,1129123.01
+Czechia,"Mineral industry",2014,124349.23
+Czechia,"Chemical industry",2014,149766.26
+Czechia,"Paper and wood production and processing",2014,63919.59
+Czechia,"Energy sector",2014,856709.23
+Czechia,"Animal and vegetable products from the food and beverage sector",2014,69880.42
+Czechia,"Other activities",2014,243396.56
+Czechia,"Waste and wastewater management",2014,793591.91
+Czechia,"Mineral industry",2015,138970.09
+Czechia,"Chemical industry",2015,134975.16
+Czechia,"Waste and wastewater management",2015,879295.96
+Czechia,"Energy sector",2015,855013.35
+Czechia,"Production and processing of metals",2015,1154148.99
+Czechia,"Paper and wood production and processing",2015,87902.81
+Czechia,"Intensive livestock production and aquaculture",2015,25304.75
+Czechia,"Other activities",2015,251401.41
+Czechia,"Animal and vegetable products from the food and beverage sector",2015,83425.68
+Czechia,"Chemical industry",2016,174123.34
+Czechia,"Intensive livestock production and aquaculture",2016,25851.72
+Czechia,"Production and processing of metals",2016,1192359.80
+Czechia,"Animal and vegetable products from the food and beverage sector",2016,73553.79
+Czechia,"Energy sector",2016,766301.93
+Czechia,"Waste and wastewater management",2016,1020650.73
+Czechia,"Other activities",2016,261312.69
+Czechia,"Mineral industry",2016,144124.13
+Czechia,"Paper and wood production and processing",2016,108355.33
+Czechia,"Paper and wood production and processing",2017,113463.86
+Czechia,"Production and processing of metals",2017,1134428.75
+Czechia,"Mineral industry",2017,145328.97
+Czechia,"Chemical industry",2017,170848.31
+Czechia,"Waste and wastewater management",2017,914080.79
+Czechia,"Energy sector",2017,519681.27
+Czechia,"Intensive livestock production and aquaculture",2017,7106.22
+Czechia,"Animal and vegetable products from the food and beverage sector",2017,76535.49
+Czechia,"Other activities",2017,300575.56
+Czechia,"Production and processing of metals",2018,1184860.88
+Czechia,"Energy sector",2018,2618409.56
+Czechia,"Mineral industry",2018,144453.93
+Czechia,"Chemical industry",2018,169461.94
+Czechia,"Waste and wastewater management",2018,946653.61
+Czechia,"Animal and vegetable products from the food and beverage sector",2018,92276.44
+Czechia,"Other activities",2018,361350.90
+Czechia,"Paper and wood production and processing",2018,121050.17
+Czechia,"Intensive livestock production and aquaculture",2018,7571.17
+Czechia,"Animal and vegetable products from the food and beverage sector",2019,87552.96
+Czechia,"Production and processing of metals",2019,1061557.97
+Czechia,"Mineral industry",2019,125593.63
+Czechia,"Chemical industry",2019,179779.95
+Czechia,"Waste and wastewater management",2019,1017210.46
+Czechia,"Paper and wood production and processing",2019,99494.16
+Czechia,"Intensive livestock production and aquaculture",2019,4253.35
+Czechia,"Energy sector",2019,262267.98
+Czechia,"Other activities",2019,302418.68
+Czechia,"Production and processing of metals",2020,936380.85
+Czechia,"Mineral industry",2020,117077.99
+Czechia,"Energy sector",2020,223233.20
+Czechia,"Chemical industry",2020,177367.55
+Czechia,"Intensive livestock production and aquaculture",2020,2288.92
+Czechia,"Animal and vegetable products from the food and beverage sector",2020,94563.65
+Czechia,"Other activities",2020,262532.65
+Czechia,"Waste and wastewater management",2020,1056764.26
+Czechia,"Paper and wood production and processing",2020,101014.84
+Denmark,"Paper and wood production and processing",2007,14035.00
+Denmark,"Chemical industry",2007,317361.00
+Denmark,"Waste and wastewater management",2007,2299020.00
+Denmark,"Mineral industry",2007,62913.00
+Denmark,"Animal and vegetable products from the food and beverage sector",2007,437676.00
+Denmark,"Other activities",2007,44154.00
+Denmark,"Production and processing of metals",2007,95515.00
+Denmark,"Energy sector",2007,211936.00
+Denmark,"Mineral industry",2008,39661.00
+Denmark,"Chemical industry",2008,329124.12
+Denmark,"Waste and wastewater management",2008,2464680.00
+Denmark,"Paper and wood production and processing",2008,15472.00
+Denmark,"Animal and vegetable products from the food and beverage sector",2008,242763.00
+Denmark,"Other activities",2008,62758.98
+Denmark,"Production and processing of metals",2008,80356.00
+Denmark,"Energy sector",2008,35615.80
+Denmark,"Energy sector",2009,80900.12
+Denmark,"Production and processing of metals",2009,51086.44
+Denmark,"Mineral industry",2009,77761.96
+Denmark,"Chemical industry",2009,204428.88
+Denmark,"Waste and wastewater management",2009,2334484.88
+Denmark,"Paper and wood production and processing",2009,2641.20
+Denmark,"Animal and vegetable products from the food and beverage sector",2009,690856.38
+Denmark,"Other activities",2009,60626.23
+Denmark,"Animal and vegetable products from the food and beverage sector",2010,484479.12
+Denmark,"Energy sector",2010,36719.97
+Denmark,"Production and processing of metals",2010,351239.83
+Denmark,"Waste and wastewater management",2010,2213396.59
+Denmark,"Paper and wood production and processing",2010,2876.10
+Denmark,"Mineral industry",2010,29688.20
+Denmark,"Other activities",2010,39512.20
+Denmark,"Chemical industry",2010,435030.22
+Denmark,"Paper and wood production and processing",2011,7140.10
+Denmark,"Production and processing of metals",2011,188650.82
+Denmark,"Animal and vegetable products from the food and beverage sector",2011,388570.48
+Denmark,"Other activities",2011,35276.60
+Denmark,"Mineral industry",2011,30947.70
+Denmark,"Chemical industry",2011,1798517.10
+Denmark,"Energy sector",2011,94982.28
+Denmark,"Waste and wastewater management",2011,2379906.95
+Denmark,"Chemical industry",2012,460606.89
+Denmark,"Waste and wastewater management",2012,2241802.75
+Denmark,"Paper and wood production and processing",2012,2457.30
+Denmark,"Animal and vegetable products from the food and beverage sector",2012,512177.93
+Denmark,"Other activities",2012,33546.10
+Denmark,"Energy sector",2012,51279.75
+Denmark,"Mineral industry",2012,70231.40
+Denmark,"Production and processing of metals",2012,109869.41
+Denmark,"Animal and vegetable products from the food and beverage sector",2013,323457.60
+Denmark,"Other activities",2013,28425.60
+Denmark,"Chemical industry",2013,493059.52
+Denmark,"Waste and wastewater management",2013,2127312.89
+Denmark,"Energy sector",2013,68492.46
+Denmark,"Paper and wood production and processing",2013,4883.70
+Denmark,"Production and processing of metals",2013,131617.73
+Denmark,"Mineral industry",2013,28592.70
+Denmark,"Mineral industry",2014,59752.70
+Denmark,"Paper and wood production and processing",2014,4941.70
+Denmark,"Animal and vegetable products from the food and beverage sector",2014,246040.92
+Denmark,"Other activities",2014,33016.00
+Denmark,"Energy sector",2014,45248.37
+Denmark,"Waste and wastewater management",2014,2147412.21
+Denmark,"Production and processing of metals",2014,72581.25
+Denmark,"Chemical industry",2014,438968.83
+Denmark,"Chemical industry",2015,424325.11
+Denmark,"Waste and wastewater management",2015,2480060.33
+Denmark,"Other activities",2015,25052.00
+Denmark,"Animal and vegetable products from the food and beverage sector",2015,222159.47
+Denmark,"Paper and wood production and processing",2015,5426.30
+Denmark,"Mineral industry",2015,98821.00
+Denmark,"Energy sector",2015,98870.79
+Denmark,"Production and processing of metals",2015,17938.90
+Denmark,"Production and processing of metals",2016,12701.49
+Denmark,"Chemical industry",2016,385292.88
+Denmark,"Energy sector",2016,145061.35
+Denmark,"Mineral industry",2016,140269.80
+Denmark,"Waste and wastewater management",2016,2567118.34
+Denmark,"Paper and wood production and processing",2016,5100.00
+Denmark,"Animal and vegetable products from the food and beverage sector",2016,228021.25
+Denmark,"Other activities",2016,28957.00
+Denmark,"Production and processing of metals",2017,21877.40
+Denmark,"Mineral industry",2017,126742.70
+Denmark,"Energy sector",2017,168510.71
+Denmark,"Other activities",2017,5878.20
+Denmark,"Animal and vegetable products from the food and beverage sector",2017,192496.82
+Denmark,"Paper and wood production and processing",2017,18118.00
+Denmark,"Waste and wastewater management",2017,738789.04
+Denmark,"Chemical industry",2017,169981.44
+Denmark,"Mineral industry",2018,137772.16
+Denmark,"Chemical industry",2018,242425.10
+Denmark,"Waste and wastewater management",2018,1518036.37
+Denmark,"Paper and wood production and processing",2018,7541.68
+Denmark,"Animal and vegetable products from the food and beverage sector",2018,562334.87
+Denmark,"Other activities",2018,2850.80
+Denmark,"Production and processing of metals",2018,18198.13
+Denmark,"Energy sector",2018,132599.51
+Denmark,"Energy sector",2019,54613.35
+Denmark,"Mineral industry",2019,71816.51
+Denmark,"Chemical industry",2019,240113.88
+Denmark,"Waste and wastewater management",2019,1566201.30
+Denmark,"Other activities",2019,722033.95
+Denmark,"Animal and vegetable products from the food and beverage sector",2019,273547.89
+Denmark,"Paper and wood production and processing",2019,8119.05
+Denmark,"Production and processing of metals",2019,38927.00
+Estonia,"Intensive livestock production and aquaculture",2007,10823.19
+Estonia,"Other activities",2007,16487.02
+Estonia,"Production and processing of metals",2007,13575.43
+Estonia,"Energy sector",2007,722848.55
+Estonia,"Chemical industry",2007,5192.93
+Estonia,"Waste and wastewater management",2007,281288.26
+Estonia,"Paper and wood production and processing",2007,14005.74
+Estonia,"Animal and vegetable products from the food and beverage sector",2007,8353.00
+Estonia,"Mineral industry",2007,966599.21
+Estonia,"Other activities",2008,17853.91
+Estonia,"Animal and vegetable products from the food and beverage sector",2008,84266.68
+Estonia,"Intensive livestock production and aquaculture",2008,36599.89
+Estonia,"Paper and wood production and processing",2008,46475.94
+Estonia,"Waste and wastewater management",2008,346547.03
+Estonia,"Energy sector",2008,875095.37
+Estonia,"Chemical industry",2008,3774.30
+Estonia,"Mineral industry",2008,688213.98
+Estonia,"Production and processing of metals",2008,11238.52
+Estonia,"Energy sector",2009,952015.11
+Estonia,"Production and processing of metals",2009,3807.91
+Estonia,"Mineral industry",2009,1628429.78
+Estonia,"Chemical industry",2009,3460.32
+Estonia,"Paper and wood production and processing",2009,37070.45
+Estonia,"Intensive livestock production and aquaculture",2009,30988.34
+Estonia,"Animal and vegetable products from the food and beverage sector",2009,95295.31
+Estonia,"Other activities",2009,8036.72
+Estonia,"Waste and wastewater management",2009,267757.63
+Estonia,"Paper and wood production and processing",2010,36384.23
+Estonia,"Mineral industry",2010,757260.89
+Estonia,"Chemical industry",2010,3134.29
+Estonia,"Waste and wastewater management",2010,332319.51
+Estonia,"Intensive livestock production and aquaculture",2010,29245.45
+Estonia,"Animal and vegetable products from the food and beverage sector",2010,87866.07
+Estonia,"Other activities",2010,6158.09
+Estonia,"Energy sector",2010,1052722.17
+Estonia,"Production and processing of metals",2010,11649.48
+Estonia,"Waste and wastewater management",2011,353240.46
+Estonia,"Paper and wood production and processing",2011,46733.82
+Estonia,"Intensive livestock production and aquaculture",2011,4.53
+Estonia,"Animal and vegetable products from the food and beverage sector",2011,4743.34
+Estonia,"Other activities",2011,104391.85
+Estonia,"Energy sector",2011,1100991.45
+Estonia,"Chemical industry",2011,2709.15
+Estonia,"Production and processing of metals",2011,15241.99
+Estonia,"Mineral industry",2011,389256.47
+Estonia,"Waste and wastewater management",2012,359260.11
+Estonia,"Energy sector",2012,1434338.06
+Estonia,"Production and processing of metals",2012,18038.43
+Estonia,"Mineral industry",2012,88595.78
+Estonia,"Chemical industry",2012,2604.00
+Estonia,"Paper and wood production and processing",2012,41466.22
+Estonia,"Animal and vegetable products from the food and beverage sector",2012,3828.90
+Estonia,"Other activities",2012,103075.50
+Estonia,"Mineral industry",2013,9627.78
+Estonia,"Chemical industry",2013,2244.34
+Estonia,"Waste and wastewater management",2013,410418.95
+Estonia,"Paper and wood production and processing",2013,2411.69
+Estonia,"Animal and vegetable products from the food and beverage sector",2013,10915.59
+Estonia,"Other activities",2013,143802.70
+Estonia,"Production and processing of metals",2013,13371.03
+Estonia,"Energy sector",2013,1904689.90
+Estonia,"Production and processing of metals",2014,16953.00
+Estonia,"Other activities",2014,184545.80
+Estonia,"Animal and vegetable products from the food and beverage sector",2014,15115.43
+Estonia,"Intensive livestock production and aquaculture",2014,3.66
+Estonia,"Paper and wood production and processing",2014,178.74
+Estonia,"Waste and wastewater management",2014,348200.32
+Estonia,"Chemical industry",2014,2481.08
+Estonia,"Mineral industry",2014,4294.29
+Estonia,"Energy sector",2014,2134136.69
+Estonia,"Energy sector",2015,2768161.50
+Estonia,"Mineral industry",2015,2495.65
+Estonia,"Chemical industry",2015,2345.45
+Estonia,"Waste and wastewater management",2015,272460.33
+Estonia,"Paper and wood production and processing",2015,3544.19
+Estonia,"Intensive livestock production and aquaculture",2015,44.00
+Estonia,"Animal and vegetable products from the food and beverage sector",2015,15942.19
+Estonia,"Other activities",2015,9236.80
+Estonia,"Production and processing of metals",2015,15220.15
+Estonia,"Intensive livestock production and aquaculture",2016,28.32
+Estonia,"Paper and wood production and processing",2016,5085.83
+Estonia,"Waste and wastewater management",2016,370080.10
+Estonia,"Other activities",2016,18653.00
+Estonia,"Energy sector",2016,2950088.34
+Estonia,"Production and processing of metals",2016,15558.87
+Estonia,"Animal and vegetable products from the food and beverage sector",2016,24738.70
+Estonia,"Mineral industry",2016,218.60
+Estonia,"Chemical industry",2016,2290.81
+Estonia,"Chemical industry",2017,9469.18
+Estonia,"Energy sector",2017,1823228.41
+Estonia,"Waste and wastewater management",2017,591204.63
+Estonia,"Mineral industry",2017,230.38
+Estonia,"Paper and wood production and processing",2017,6659.82
+Estonia,"Production and processing of metals",2017,16423.38
+Estonia,"Animal and vegetable products from the food and beverage sector",2017,24573.40
+Estonia,"Other activities",2017,7544.00
+Estonia,"Mineral industry",2018,355.59
+Estonia,"Paper and wood production and processing",2018,62766.98
+Estonia,"Intensive livestock production and aquaculture",2018,46.69
+Estonia,"Chemical industry",2018,2559.70
+Estonia,"Production and processing of metals",2018,16705.52
+Estonia,"Animal and vegetable products from the food and beverage sector",2018,22565.38
+Estonia,"Energy sector",2018,1966798.71
+Estonia,"Waste and wastewater management",2018,492233.29
+Estonia,"Other activities",2018,10193.31
+Estonia,"Other activities",2019,4809.78
+Estonia,"Mineral industry",2019,2367.17
+Estonia,"Chemical industry",2019,3656.08
+Estonia,"Production and processing of metals",2019,5295.52
+Estonia,"Energy sector",2019,2068520.04
+Estonia,"Waste and wastewater management",2019,280892.90
+Estonia,"Paper and wood production and processing",2019,51381.53
+Estonia,"Intensive livestock production and aquaculture",2019,76.00
+Estonia,"Animal and vegetable products from the food and beverage sector",2019,19940.00
+Estonia,"Other activities",2020,14192.77
+Estonia,"Mineral industry",2020,166.95
+Estonia,"Animal and vegetable products from the food and beverage sector",2020,38167.40
+Estonia,"Energy sector",2020,2256512.58
+Estonia,"Paper and wood production and processing",2020,40477.28
+Estonia,"Waste and wastewater management",2020,427752.59
+Estonia,"Production and processing of metals",2020,13419.90
+Estonia,"Chemical industry",2020,617.27
+Estonia,"Intensive livestock production and aquaculture",2020,38.92
+Finland,"Chemical industry",2007,778263.42
+Finland,"Mineral industry",2007,694968.39
+Finland,"Production and processing of metals",2007,1675017.17
+Finland,"Waste and wastewater management",2007,4428982.46
+Finland,"Energy sector",2007,2049524.69
+Finland,"Paper and wood production and processing",2007,2220056.68
+Finland,"Other activities",2007,79580.58
+Finland,"Intensive livestock production and aquaculture",2007,11619.10
+Finland,"Animal and vegetable products from the food and beverage sector",2007,184627.33
+Finland,"Animal and vegetable products from the food and beverage sector",2008,195955.22
+Finland,"Paper and wood production and processing",2008,2385264.18
+Finland,"Waste and wastewater management",2008,3436185.96
+Finland,"Intensive livestock production and aquaculture",2008,11602.60
+Finland,"Chemical industry",2008,1018968.62
+Finland,"Other activities",2008,86526.29
+Finland,"Production and processing of metals",2008,1476284.74
+Finland,"Energy sector",2008,1668227.82
+Finland,"Mineral industry",2008,1018267.67
+Finland,"Mineral industry",2009,904633.52
+Finland,"Chemical industry",2009,634895.45
+Finland,"Energy sector",2009,1585233.32
+Finland,"Paper and wood production and processing",2009,1901457.37
+Finland,"Intensive livestock production and aquaculture",2009,4161.90
+Finland,"Animal and vegetable products from the food and beverage sector",2009,185172.07
+Finland,"Production and processing of metals",2009,680100.34
+Finland,"Other activities",2009,59524.65
+Finland,"Waste and wastewater management",2009,2899711.78
+Finland,"Mineral industry",2010,717244.88
+Finland,"Animal and vegetable products from the food and beverage sector",2010,186689.11
+Finland,"Other activities",2010,48362.72
+Finland,"Paper and wood production and processing",2010,2038979.25
+Finland,"Chemical industry",2010,610833.80
+Finland,"Intensive livestock production and aquaculture",2010,174729.74
+Finland,"Production and processing of metals",2010,748260.70
+Finland,"Energy sector",2010,1798943.15
+Finland,"Waste and wastewater management",2010,3374830.44
+Finland,"Waste and wastewater management",2011,3649995.87
+Finland,"Paper and wood production and processing",2011,1812629.88
+Finland,"Energy sector",2011,1541370.02
+Finland,"Intensive livestock production and aquaculture",2011,170888.60
+Finland,"Animal and vegetable products from the food and beverage sector",2011,216359.30
+Finland,"Production and processing of metals",2011,839099.13
+Finland,"Other activities",2011,54200.21
+Finland,"Chemical industry",2011,791902.48
+Finland,"Mineral industry",2011,381682.17
+Finland,"Chemical industry",2012,590875.40
+Finland,"Paper and wood production and processing",2012,2116329.14
+Finland,"Intensive livestock production and aquaculture",2012,181178.10
+Finland,"Animal and vegetable products from the food and beverage sector",2012,199065.01
+Finland,"Waste and wastewater management",2012,3789117.97
+Finland,"Other activities",2012,68881.80
+Finland,"Mineral industry",2012,29183.99
+Finland,"Production and processing of metals",2012,810179.33
+Finland,"Energy sector",2012,1472256.28
+Finland,"Energy sector",2013,1435321.26
+Finland,"Mineral industry",2013,46480.94
+Finland,"Chemical industry",2013,591321.95
+Finland,"Waste and wastewater management",2013,4154947.96
+Finland,"Paper and wood production and processing",2013,1722753.84
+Finland,"Intensive livestock production and aquaculture",2013,148193.40
+Finland,"Animal and vegetable products from the food and beverage sector",2013,556531.91
+Finland,"Other activities",2013,53635.06
+Finland,"Production and processing of metals",2013,359016.73
+Finland,"Waste and wastewater management",2014,4288462.55
+Finland,"Paper and wood production and processing",2014,1553901.40
+Finland,"Chemical industry",2014,633034.33
+Finland,"Intensive livestock production and aquaculture",2014,146776.10
+Finland,"Animal and vegetable products from the food and beverage sector",2014,312793.65
+Finland,"Other activities",2014,57455.93
+Finland,"Mineral industry",2014,29172.19
+Finland,"Production and processing of metals",2014,325597.73
+Finland,"Energy sector",2014,1374236.51
+Finland,"Mineral industry",2015,23261.40
+Finland,"Chemical industry",2015,495245.59
+Finland,"Energy sector",2015,1151160.37
+Finland,"Production and processing of metals",2015,756220.59
+Finland,"Waste and wastewater management",2015,4001910.16
+Finland,"Paper and wood production and processing",2015,1498007.18
+Finland,"Intensive livestock production and aquaculture",2015,51558.50
+Finland,"Animal and vegetable products from the food and beverage sector",2015,306124.59
+Finland,"Other activities",2015,52904.52
+Finland,"Animal and vegetable products from the food and beverage sector",2016,460243.08
+Finland,"Chemical industry",2016,367874.02
+Finland,"Other activities",2016,54980.63
+Finland,"Waste and wastewater management",2016,3910139.75
+Finland,"Energy sector",2016,1230992.45
+Finland,"Mineral industry",2016,64934.21
+Finland,"Production and processing of metals",2016,895832.86
+Finland,"Intensive livestock production and aquaculture",2016,21229.00
+Finland,"Paper and wood production and processing",2016,1615836.73
+Finland,"Production and processing of metals",2017,1098666.15
+Finland,"Chemical industry",2017,203884.19
+Finland,"Paper and wood production and processing",2017,1587029.42
+Finland,"Intensive livestock production and aquaculture",2017,1000752.60
+Finland,"Animal and vegetable products from the food and beverage sector",2017,257295.22
+Finland,"Waste and wastewater management",2017,4794828.24
+Finland,"Other activities",2017,49780.38
+Finland,"Energy sector",2017,958348.86
+Finland,"Mineral industry",2017,242515.12
+Finland,"Mineral industry",2018,1352635.72
+Finland,"Production and processing of metals",2018,953347.18
+Finland,"Waste and wastewater management",2018,3690759.56
+Finland,"Chemical industry",2018,153521.87
+Finland,"Paper and wood production and processing",2018,1815943.60
+Finland,"Intensive livestock production and aquaculture",2018,545642.44
+Finland,"Animal and vegetable products from the food and beverage sector",2018,258977.46
+Finland,"Other activities",2018,51143.79
+Finland,"Energy sector",2018,1091038.57
+Finland,"Energy sector",2019,942233.31
+Finland,"Production and processing of metals",2019,870262.97
+Finland,"Mineral industry",2019,1955473.69
+Finland,"Chemical industry",2019,190977.00
+Finland,"Waste and wastewater management",2019,4231450.28
+Finland,"Paper and wood production and processing",2019,1396770.16
+Finland,"Intensive livestock production and aquaculture",2019,633550.80
+Finland,"Other activities",2019,212403.20
+Finland,"Animal and vegetable products from the food and beverage sector",2019,242160.73
+Finland,"Chemical industry",2020,456593.54
+Finland,"Waste and wastewater management",2020,4078024.81
+Finland,"Paper and wood production and processing",2020,1123348.81
+Finland,"Animal and vegetable products from the food and beverage sector",2020,235844.50
+Finland,"Intensive livestock production and aquaculture",2020,661484.18
+Finland,"Other activities",2020,55962.39
+Finland,"Mineral industry",2020,1680292.39
+Finland,"Energy sector",2020,708809.99
+Finland,"Production and processing of metals",2020,923925.73
+France,"Energy sector",2007,975203.60
+France,"Mineral industry",2007,183149.41
+France,"Chemical industry",2007,1060971.13
+France,"Production and processing of metals",2007,2143533.68
+France,"Other activities",2007,509051.51
+France,"Waste and wastewater management",2007,3829189.62
+France,"Paper and wood production and processing",2007,1403829.33
+France,"Animal and vegetable products from the food and beverage sector",2007,1529692.71
+France,"Waste and wastewater management",2008,5358074.00
+France,"Animal and vegetable products from the food and beverage sector",2008,2253768.10
+France,"Chemical industry",2008,1232042.06
+France,"Other activities",2008,454901.62
+France,"Paper and wood production and processing",2008,1296158.19
+France,"Energy sector",2008,1126587.86
+France,"Production and processing of metals",2008,6667633.66
+France,"Mineral industry",2008,226249.32
+France,"Production and processing of metals",2009,3480016.38
+France,"Paper and wood production and processing",2009,1244476.29
+France,"Animal and vegetable products from the food and beverage sector",2009,1953573.62
+France,"Other activities",2009,299650.39
+France,"Chemical industry",2009,1033161.59
+France,"Mineral industry",2009,277676.10
+France,"Energy sector",2009,1220820.12
+France,"Waste and wastewater management",2009,6292559.65
+France,"Energy sector",2010,1360933.92
+France,"Mineral industry",2010,197532.78
+France,"Production and processing of metals",2010,4215060.10
+France,"Chemical industry",2010,1168107.71
+France,"Waste and wastewater management",2010,6314967.82
+France,"Paper and wood production and processing",2010,1607044.75
+France,"Animal and vegetable products from the food and beverage sector",2010,10107552.73
+France,"Other activities",2010,925084.61
+France,"Energy sector",2011,1365677.69
+France,"Waste and wastewater management",2011,6828367.98
+France,"Production and processing of metals",2011,6213937.88
+France,"Paper and wood production and processing",2011,1575658.11
+France,"Animal and vegetable products from the food and beverage sector",2011,3965374.25
+France,"Other activities",2011,317968.24
+France,"Chemical industry",2011,1121007.72
+France,"Mineral industry",2011,219849.25
+France,"Mineral industry",2012,483821.55
+France,"Chemical industry",2012,1764696.94
+France,"Waste and wastewater management",2012,8448013.52
+France,"Animal and vegetable products from the food and beverage sector",2012,6656538.51
+France,"Other activities",2012,393233.07
+France,"Production and processing of metals",2012,8458404.14
